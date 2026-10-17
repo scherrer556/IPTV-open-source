@@ -1,0 +1,3238 @@
+[
+  {
+    "name": "A&E",
+    "category": "Documentários",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "Adult Swim",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "AMC",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 640x360"
+    ]
+  },
+  {
+    "name": "Animal Planet",
+    "category": "Documentários",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "Band",
+    "category": "TV Aberta",
+    "qualities": [
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Cartoon Network",
+    "category": "Infantil",
+    "qualities": [
+      "4K",
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "CNN Brasil",
+    "category": "Notícias",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 852x480"
+    ]
+  },
+  {
+    "name": "CNN Brasil Money",
+    "category": "Notícias",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 852x480"
+    ]
+  },
+  {
+    "name": "E!",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "GE TV",
+    "category": "Esportes",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "GloboNews",
+    "category": "Notícias",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "Globoplay Novelas",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "GNT",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "History",
+    "category": "Documentários",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "History 2",
+    "category": "Documentários",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "Jovem Pan News",
+    "category": "Notícias",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Megapix",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "Multishow",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "Premiere 2",
+    "category": "Esportes",
+    "qualities": [
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Premiere 3",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "Premiere 4",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Premiere 5",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Premiere 6",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "Premiere 7",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "Premiere 8",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "Premiere Clubes",
+    "category": "Esportes",
+    "qualities": [
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "SBT",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "SBT News",
+    "category": "Notícias",
+    "qualities": [
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Sony Channel",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 640x360"
+    ]
+  },
+  {
+    "name": "SporTV",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432",
+      "SD · 852x480"
+    ]
+  },
+  {
+    "name": "SporTV 2",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "SporTV 3",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Canal OFF",
+    "category": "Esportes",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "Telecine Action",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 852x480"
+    ]
+  },
+  {
+    "name": "Telecine Pipoca",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 852x480"
+    ]
+  },
+  {
+    "name": "Telecine Premium",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 852x480"
+    ]
+  },
+  {
+    "name": "TV Brasil",
+    "category": "TV Aberta",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Universal Premiere",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "Universal Reality",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "Warner",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 640x360"
+    ]
+  },
+  {
+    "name": "IMPD",
+    "category": "Variedades",
+    "qualities": [
+      "Automática",
+      "FHD · 1920x1080",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Globo SP",
+    "category": "TV Aberta",
+    "qualities": [
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 852x480"
+    ]
+  },
+  {
+    "name": "Cartoonito",
+    "category": "Infantil",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "Cinemax",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Discovery Channel",
+    "category": "Documentários",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432",
+      "SD · 852x480"
+    ]
+  },
+  {
+    "name": "Discovery Kids",
+    "category": "Infantil",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Discovery Theater",
+    "category": "Documentários",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "ESPN",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432",
+      "SD · 852x480"
+    ]
+  },
+  {
+    "name": "ESPN 2",
+    "category": "Esportes",
+    "qualities": [
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 640x360",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "ESPN 4",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 640x360",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "ESPN 5",
+    "category": "Esportes",
+    "qualities": [
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "ESPN 6",
+    "category": "Esportes",
+    "qualities": [
+      "Automática",
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "HBO",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 852x480"
+    ]
+  },
+  {
+    "name": "HBO2",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "HBO Family",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "HBO Mundi",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "HBO Plus",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "HBO Pop",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 854x480"
+    ]
+  },
+  {
+    "name": "HBO Signature",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD",
+      "SD · 854x480"
+    ]
+  },
+  {
+    "name": "HBO Xtreme",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Record",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Space",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "TNT",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 640x360"
+    ]
+  },
+  {
+    "name": "TNT Séries",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "HD",
+      "Qualidade não informada",
+      "SD",
+      "SD · 1024x576",
+      "SD · 854x480"
+    ]
+  },
+  {
+    "name": "Universal TV",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Discovery Turbo",
+    "category": "Documentários",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "USA Network",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "SD"
+    ]
+  },
+  {
+    "name": "Telecine Fun",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Telecine Cult",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Telecine Touch",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "SONY Movies",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Globo",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "Tooncast",
+    "category": "Infantil",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD"
+    ]
+  },
+  {
+    "name": "TLC",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "Arte 1",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD"
+    ]
+  },
+  {
+    "name": "TNT Novelas",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 854x480"
+    ]
+  },
+  {
+    "name": "Discovery Science",
+    "category": "Documentários",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "AXN",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "TCM",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "FHD",
+      "HD",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Band News",
+    "category": "Notícias",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "BAND SPORTS HD",
+    "category": "Esportes",
+    "qualities": [
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "RedeTV!",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "TV Cultura",
+    "category": "TV Aberta",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "Terra Viva",
+    "category": "Variedades",
+    "qualities": [
+      "HD · 1080x720",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Woohoo",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "SD"
+    ]
+  },
+  {
+    "name": "ESPN 3",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "TV Gazeta",
+    "category": "TV Aberta",
+    "qualities": [
+      "Automática",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Record News",
+    "category": "Notícias",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD"
+    ]
+  },
+  {
+    "name": "Canção Nova",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "TV Aparecida",
+    "category": "TV Aberta",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Rede Vida",
+    "category": "TV Aberta",
+    "qualities": [
+      "4K",
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 720x576"
+    ]
+  },
+  {
+    "name": "Discovery ID",
+    "category": "Documentários",
+    "qualities": [
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "Fish TV",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD"
+    ]
+  },
+  {
+    "name": "Box Kids TV",
+    "category": "Infantil",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "X Sports",
+    "category": "Esportes",
+    "qualities": [
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "N SPORTS",
+    "category": "Esportes",
+    "qualities": [
+      "Automática",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Music Box Brazil",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD"
+    ]
+  },
+  {
+    "name": "Band SP",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Band RS",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD"
+    ]
+  },
+  {
+    "name": "SBT SP",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Record SP",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Canal Rural",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD"
+    ]
+  },
+  {
+    "name": "Agro Mais",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD"
+    ]
+  },
+  {
+    "name": "CNT",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "TV Pai Eterno",
+    "category": "Variedades",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "PlayTV",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Rede Brasil",
+    "category": "TV Aberta",
+    "qualities": [
+      "Automática",
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Rede Gospel",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD"
+    ]
+  },
+  {
+    "name": "Trace Brazuca",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "TV Câmara",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD · 718x480"
+    ]
+  },
+  {
+    "name": "TV Evangelizar",
+    "category": "Variedades",
+    "qualities": [
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "TV Justiça",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "TV Novo Tempo",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "TV Senado",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD",
+      "HD · 1310x720",
+      "SD · 718x480"
+    ]
+  },
+  {
+    "name": "RIT",
+    "category": "Variedades",
+    "qualities": [
+      "Automática",
+      "FHD · 1920x1080",
+      "HD · 1080x720",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Discovery Home & Health",
+    "category": "Documentários",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "Canal Agro",
+    "category": "Variedades",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Blits TV",
+    "category": "Variedades",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "CNBC",
+    "category": "Notícias",
+    "qualities": [
+      "HD"
+    ]
+  },
+  {
+    "name": "Com Brasil",
+    "category": "Variedades",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "SESC TV",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD · 1280x720",
+      "SD · 720x576"
+    ]
+  },
+  {
+    "name": "TVideoNews",
+    "category": "Notícias",
+    "qualities": [
+      "Automática",
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "Assombrações",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Bob Esponja Calça Quadrada",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720",
+      "HD · 1280x962",
+      "HD · 1280x972",
+      "Qualidade não informada",
+      "SD · 704x480",
+      "SD · 720x480",
+      "SD · 720x540"
+    ]
+  },
+  {
+    "name": "Boruto: Naruto Next Generations",
+    "category": "24 Horas",
+    "qualities": [
+      "SD · 1216x684"
+    ]
+  },
+  {
+    "name": "Canal Educacao",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Canal Futura",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Canal Gov",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Canal UOL",
+    "category": "Notícias",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "Canal do Boi",
+    "category": "Variedades",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD",
+      "SD · 852x480"
+    ]
+  },
+  {
+    "name": "Chef TV",
+    "category": "Variedades",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "Cultura Fast",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "DumDum",
+    "category": "Infantil",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD",
+      "SD · 720x576"
+    ]
+  },
+  {
+    "name": "Futura",
+    "category": "TV Aberta",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD"
+    ]
+  },
+  {
+    "name": "KpopTV Play",
+    "category": "Variedades",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "MTV Biggest Pop",
+    "category": "Variedades",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "MTV Rocks",
+    "category": "Variedades",
+    "qualities": [
+      "SD · 1216x684"
+    ]
+  },
+  {
+    "name": "MasterChef",
+    "category": "24 Horas",
+    "qualities": [
+      "Automática",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "MyTime Movie Network",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "NickOnline",
+    "category": "Infantil",
+    "qualities": [
+      "Automática",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "NickToons Brasil",
+    "category": "Infantil",
+    "qualities": [
+      "SD · 854x480"
+    ]
+  },
+  {
+    "name": "Nickelodeon",
+    "category": "Infantil",
+    "qualities": [
+      "SD · 854x480"
+    ]
+  },
+  {
+    "name": "Nickelodeon iCarly",
+    "category": "24 Horas",
+    "qualities": [
+      "SD · 1216x684"
+    ]
+  },
+  {
+    "name": "Pluto TV Anime",
+    "category": "Pluto TV",
+    "qualities": [
+      "SD · 1216x684"
+    ]
+  },
+  {
+    "name": "Rede TV!",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Runtime",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Smithsonian Channel Pluto TV",
+    "category": "Pluto TV",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Travel Box Brazil",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "SD",
+      "SD · 852x480"
+    ]
+  },
+  {
+    "name": "AEROPORTO AREA RESTRITA",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "FILHINHO DA MAMAE",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Amazon Prime Video 01",
+    "category": "Esportes",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Amazon Prime Video 02",
+    "category": "Esportes",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Amazon Prime Video 03",
+    "category": "Esportes",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Canal GOAT (Jogo 1)",
+    "category": "Esportes",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Canal GOAT (Jogo 2)",
+    "category": "Esportes",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Canal GOAT (Jogo 3)",
+    "category": "Esportes",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Combate",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "Automática",
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "DAZN (Jogo 1)",
+    "category": "Esportes",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "DAZN (Jogo 4)",
+    "category": "Esportes",
+    "qualities": [
+      "SD · 640x360"
+    ]
+  },
+  {
+    "name": "Disney+ 01",
+    "category": "Esportes",
+    "qualities": [
+      "HD"
+    ]
+  },
+  {
+    "name": "Disney+ 02",
+    "category": "Esportes",
+    "qualities": [
+      "HD"
+    ]
+  },
+  {
+    "name": "NBA 01",
+    "category": "Esportes",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "N Sports (Jogo 1)",
+    "category": "Esportes",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "Paramount+ (Jogo 1)",
+    "category": "Esportes",
+    "qualities": [
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Paramount+ (Jogo 2)",
+    "category": "Esportes",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Paramount+ (Jogo 3)",
+    "category": "Esportes",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Paramount+ (Jogo 6)",
+    "category": "Esportes",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "SportyNet 01",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "UFC Fight Pass 01",
+    "category": "Esportes",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "UFC Fight Pass 03",
+    "category": "Esportes",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Canal Brasil",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "SD"
+    ]
+  },
+  {
+    "name": "Cine SKY 01",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Cine SKY 02",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "HD · 1920x804"
+    ]
+  },
+  {
+    "name": "Cine SKY 03",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "HD · 1920x800"
+    ]
+  },
+  {
+    "name": "Cine SKY 05",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "Lifetime",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "MAX 01",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "FHD",
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "MAX 02",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Studio Universal",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Gloob",
+    "category": "Infantil",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "Gloobinho",
+    "category": "Infantil",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD"
+    ]
+  },
+  {
+    "name": "TV Rá Tim Bum",
+    "category": "Infantil",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD"
+    ]
+  },
+  {
+    "name": "Band Campinas",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Band Curitiba",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD · 1280x720",
+      "SD · 854x480"
+    ]
+  },
+  {
+    "name": "Band MG",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Band Pará",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Band Recife TV Tribuna",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Band RJ",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Band RN",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Band Sergipe",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Rede Família",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD"
+    ]
+  },
+  {
+    "name": "SBT Alterosa",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD",
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "SBT BA",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "SBT GO",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "SBT Londrina",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "SBT Maringá",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "SBT MG",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "SBT PI",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD"
+    ]
+  },
+  {
+    "name": "SBT PR",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "SBT RJ",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "TVE Bahia",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD"
+    ]
+  },
+  {
+    "name": "Tv Goiania",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "BIS",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "SD",
+      "SD · 852x480",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "Food Network",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD",
+      "SD · 768x432"
+    ]
+  },
+  {
+    "name": "Modo Viagem",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "SD",
+      "SD · 960x540"
+    ]
+  },
+  {
+    "name": "24H Chaves",
+    "category": "24 Horas",
+    "qualities": [
+      "Qualidade não informada",
+      "SD · 640x480"
+    ]
+  },
+  {
+    "name": "24H Dragon Ball Z",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "24H Naruto Clássico",
+    "category": "24 Horas",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "24H Os Simpsons",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x718",
+      "HD · 1280x720",
+      "HD · 1280x960",
+      "Qualidade não informada",
+      "SD · 400x300",
+      "SD · 512x384",
+      "SD · 544x384",
+      "SD · 560x400",
+      "SD · 624x352",
+      "SD · 640x474",
+      "SD · 640x480"
+    ]
+  },
+  {
+    "name": "24H Pica Pau",
+    "category": "24 Horas",
+    "qualities": [
+      "Qualidade não informada",
+      "SD · 640x480"
+    ]
+  },
+  {
+    "name": "24H Todo Mundo Odeia o Cris",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD · 624x352"
+    ]
+  },
+  {
+    "name": "24H Friends",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Discovery World",
+    "category": "Documentários",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "CazeTV 1",
+    "category": "Esportes",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "CazeTV 2",
+    "category": "Esportes",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "PT - A Bola",
+    "category": "Esportes",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "PT - Benfica TV",
+    "category": "Esportes",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "PT - Canal 11",
+    "category": "Esportes",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "PT - Eleven 1",
+    "category": "Esportes",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "PT - Eleven 2",
+    "category": "Esportes",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "PT - Eleven 3",
+    "category": "Esportes",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "PT - Sporttv 1",
+    "category": "Esportes",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "PT - Sporttv 2",
+    "category": "Esportes",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "PT - Sporttv 3",
+    "category": "Esportes",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "PT - Sporttv 4",
+    "category": "Esportes",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "PT - Sporttv 5",
+    "category": "Esportes",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "PT - Sporttv 6",
+    "category": "Esportes",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "PT - Sporttv 7",
+    "category": "Esportes",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "SportyNet+ 1",
+    "category": "Esportes",
+    "qualities": [
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "SportyNet+ 2",
+    "category": "Esportes",
+    "qualities": [
+      "HD",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "SportyNet+ 3",
+    "category": "Esportes",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Globo AM",
+    "category": "TV Aberta",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Globo CE",
+    "category": "TV Aberta",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Globo ES",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Globo GO",
+    "category": "TV Aberta",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Globo PB",
+    "category": "TV Aberta",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Globo PE",
+    "category": "TV Aberta",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Globo RJ",
+    "category": "TV Aberta",
+    "qualities": [
+      "Automática",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Globo RS",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD · 1920x1080",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Record GO",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Record MG",
+    "category": "TV Aberta",
+    "qualities": [
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Record RJ",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "HGTV",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "MTV",
+    "category": "Variedades",
+    "qualities": [
+      "Automática",
+      "FHD · 1536x1024",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "A Fazenda 18 1",
+    "category": "PPV",
+    "qualities": [
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "A Fazenda 18 2",
+    "category": "PPV",
+    "qualities": [
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "A Fazenda 18 3",
+    "category": "PPV",
+    "qualities": [
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "A Fazenda 18 4",
+    "category": "PPV",
+    "qualities": [
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "A Fazenda 18 5",
+    "category": "PPV",
+    "qualities": [
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "CazeTV 3",
+    "category": "Esportes",
+    "qualities": [
+      "FHD · 1920x1080",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Globo DF",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Globo MG",
+    "category": "TV Aberta",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "MAX 03",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Amazon Prime Video 04",
+    "category": "Esportes",
+    "qualities": [
+      "FHD · 1920x1080",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "SporTV 4",
+    "category": "Esportes",
+    "qualities": [
+      "4K",
+      "FHD",
+      "HD",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Star Channel",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Curta",
+    "category": "Documentários",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "SD"
+    ]
+  },
+  {
+    "name": "DOG TV",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "SD"
+    ]
+  },
+  {
+    "name": "Eurochannel",
+    "category": "Notícias",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "SD"
+    ]
+  },
+  {
+    "name": "FashionTV",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "SD"
+    ]
+  },
+  {
+    "name": "Film&Arts",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "SD"
+    ]
+  },
+  {
+    "name": "Formula 1 TV",
+    "category": "PPV",
+    "qualities": [
+      "HD"
+    ]
+  },
+  {
+    "name": "France 24",
+    "category": "Notícias",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "SD"
+    ]
+  },
+  {
+    "name": "Markket",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "SD"
+    ]
+  },
+  {
+    "name": "NBA League Pass 1",
+    "category": "Esportes",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "SD"
+    ]
+  },
+  {
+    "name": "NBA League Pass 2",
+    "category": "Esportes",
+    "qualities": [
+      "FHD",
+      "HD",
+      "SD"
+    ]
+  },
+  {
+    "name": "NBA League Pass 3",
+    "category": "Esportes",
+    "qualities": [
+      "FHD",
+      "HD",
+      "SD"
+    ]
+  },
+  {
+    "name": "SportyNet 4",
+    "category": "Esportes",
+    "qualities": [
+      "FHD",
+      "HD",
+      "SD"
+    ]
+  },
+  {
+    "name": "SportyNet",
+    "category": "Esportes",
+    "qualities": [
+      "FHD",
+      "HD · 1280x720",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Paramount + 4",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "SD",
+      "SD · 852x480"
+    ]
+  },
+  {
+    "name": "Paramount Channel",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "FHD",
+      "HD",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Prime Box Brazil",
+    "category": "Variedades",
+    "qualities": [
+      "4K",
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "SD"
+    ]
+  },
+  {
+    "name": "Sabor & Arte",
+    "category": "Variedades",
+    "qualities": [
+      "FHD",
+      "HD",
+      "HD · 1280x720",
+      "SD"
+    ]
+  },
+  {
+    "name": "UFC Fight Pass",
+    "category": "PPV",
+    "qualities": [
+      "FHD",
+      "HD",
+      "Qualidade não informada",
+      "SD"
+    ]
+  },
+  {
+    "name": "Zoomoo",
+    "category": "Infantil",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "SD"
+    ]
+  },
+  {
+    "name": "101 Dalmatas",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720",
+      "HD · 1280x960"
+    ]
+  },
+  {
+    "name": "A Beleza Secreta dos Animais",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Aladdin",
+    "category": "24 Horas",
+    "qualities": [
+      "SD · 630x480"
+    ]
+  },
+  {
+    "name": "As Aventuras do Gato de Botas",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Cameras Escondidas Silvio Santos",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Caverna do Dragao",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x960",
+      "HD · 1280x962",
+      "HD · 960x720"
+    ]
+  },
+  {
+    "name": "Chapolin Colorado",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720",
+      "HD · 916x720",
+      "HD · 924x708",
+      "HD · 940x720",
+      "HD · 954x720",
+      "HD · 960x720"
+    ]
+  },
+  {
+    "name": "Dois Homens e Meio",
+    "category": "24 Horas",
+    "qualities": [
+      "FHD · 1916x1076",
+      "HD · 1280x718",
+      "HD · 1280x720",
+      "HD · 1280x722"
+    ]
+  },
+  {
+    "name": "Dora Aventureira",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720",
+      "SD · 720x480"
+    ]
+  },
+  {
+    "name": "Dragon Ball Super - Saga Deus da Destruicao Bills",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Dragon Ball Super - Trunks do Futuro",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Escolinha do Professor Raimundo",
+    "category": "24 Horas",
+    "qualities": [
+      "SD · 594x456"
+    ]
+  },
+  {
+    "name": "Eu a Patroa e as Criancas",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Game Shakers",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "He Man e Os Defensores do Universo",
+    "category": "24 Horas",
+    "qualities": [
+      "SD · 704x574"
+    ]
+  },
+  {
+    "name": "Largados e Pelados",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Mestres da Sobrevivencia",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Nicky Ricky Dicky e Dawn",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Um Maluco no Pedaco",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x960",
+      "HD · 1280x964"
+    ]
+  },
+  {
+    "name": "FCF TV 1",
+    "category": "PPV",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "Carros Irado",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "CNBC Brasil",
+    "category": "Notícias",
+    "qualities": [
+      "4K",
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "SD"
+    ]
+  },
+  {
+    "name": "Brasileirao Serie A",
+    "category": "Variedades",
+    "qualities": [
+      "FHD",
+      "FHD · 1920x1080",
+      "HD",
+      "SD"
+    ]
+  },
+  {
+    "name": "Andorra x Malta",
+    "category": "Esportes",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "Portugal x País de Gales",
+    "category": "Esportes",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "Áustria x Israel",
+    "category": "Esportes",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "Kosovo x Irlanda",
+    "category": "Esportes",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "Liechtenstein x Lituânia",
+    "category": "Esportes",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "Informações em Breve",
+    "category": "Esportes",
+    "qualities": [
+      "FHD · 1920x1080",
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Gladiadores da Natureza",
+    "category": "24 Horas",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "A Fazenda Cam 1",
+    "category": "Variedades",
+    "qualities": [
+      "FHD"
+    ]
+  },
+  {
+    "name": "A Fazenda Cam 2",
+    "category": "Variedades",
+    "qualities": [
+      "FHD"
+    ]
+  },
+  {
+    "name": "A Fazenda Cam 3",
+    "category": "Variedades",
+    "qualities": [
+      "FHD"
+    ]
+  },
+  {
+    "name": "A Fazenda Cam 4",
+    "category": "Variedades",
+    "qualities": [
+      "FHD"
+    ]
+  },
+  {
+    "name": "A Fazenda Cam 5",
+    "category": "Variedades",
+    "qualities": [
+      "FHD"
+    ]
+  },
+  {
+    "name": "A Fazenda Cam 6",
+    "category": "Variedades",
+    "qualities": [
+      "FHD"
+    ]
+  },
+  {
+    "name": "MAX 07",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "HD"
+    ]
+  },
+  {
+    "name": "MAX 08",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "HD"
+    ]
+  },
+  {
+    "name": "PREMIERE 8 MOSAICO",
+    "category": "Esportes",
+    "qualities": [
+      "FHD"
+    ]
+  },
+  {
+    "name": "JOGOS DE HOJE",
+    "category": "Esportes",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "A FAZENDA 18 MOSAICO",
+    "category": "Variedades",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "CHAPOLIN",
+    "category": "24 Horas",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Disney Plus 1",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Disney Plus 2",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Disney Plus 3",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Paramount Plus 1",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "HD",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Paramount Plus 2",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "HD",
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Prime Video 3",
+    "category": "Filmes e Séries",
+    "qualities": [
+      "Qualidade não informada"
+    ]
+  },
+  {
+    "name": "Anime Channel TV",
+    "category": "Infantil",
+    "qualities": [
+      "SD · 640x360"
+    ]
+  },
+  {
+    "name": "Otaku Sign TV",
+    "category": "Infantil",
+    "qualities": [
+      "SD · 1024x576"
+    ]
+  },
+  {
+    "name": "Geekdot",
+    "category": "Infantil",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "NBX TV Kids",
+    "category": "Infantil",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "SBC Kids",
+    "category": "Infantil",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "Rede Crianças",
+    "category": "Infantil",
+    "qualities": [
+      "HD · 1280x720"
+    ]
+  },
+  {
+    "name": "Kuriakos Kids",
+    "category": "Infantil",
+    "qualities": [
+      "FHD · 1920x1080"
+    ]
+  },
+  {
+    "name": "Gospel Cartoon",
+    "category": "Infantil",
+    "qualities": [
+      "SD · 640x360"
+    ]
+  },
+  {
+    "name": "Jetsons TV",
+    "category": "Infantil",
+    "qualities": [
+      "SD · 640x480"
+    ]
+  }
+]
