@@ -1,6 +1,9 @@
 # Orbit TV
 
 **Um reprodutor de IPTV para desktop, leve e desenvolvido em Python.**
+<p align="center">
+  <img src="screenshots/home.jpg" alt="Interface principal do Orbit TV" width="850">
+</p>
 
 O Orbit TV começou como um projeto pessoal rápido, criado em cerca de 30 minutos antes de uma partida do Flamengo. O objetivo era simples: desenvolver uma aplicação para ver o jogo do Mengão , que permitisse navegar por fontes de IPTV disponíveis, verificar a conectividade e iniciar a reprodução, sem a necessidade de criar uma infraestrutura completa de streaming.
 
